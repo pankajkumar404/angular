@@ -1,0 +1,1 @@
+Creating a simple and small project for angular services,i.e., user-service application.
